@@ -1,0 +1,6 @@
+console.log(typeof 25);      // "number"
+console.log(typeof "hello"); // "string"
+console.log(typeof true);    // "boolean"
+console.log(typeof undefined); // "undefined"
+console.log(typeof null);    // "object"
+console.log(typeof 123n);    // "bigint"
